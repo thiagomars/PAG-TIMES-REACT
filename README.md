@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Interface do projeto:
-![Preview](/imgs/Captura1.png)
+![Preview](/imgs/React App_00.png)
 
 
 ## Available Scripts
